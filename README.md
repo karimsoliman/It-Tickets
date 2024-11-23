@@ -9,6 +9,11 @@ In the project directory, you will find 2 Projects:
 1- react-tickets : which is the front-end (React) part.  
 2- TicketsHandler: which is the back-end part.
 
+## Technologies Used
+
+Back-End: C# , Postgresql for DB management  
+Fron-End: React  
+
 ## Tickets App Idea
 
 This app is designed for any IT team, where it can find, add, remove or handle IT tickets.
